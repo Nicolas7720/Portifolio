@@ -12,7 +12,7 @@ export default {
         'intercalar2': '#172552',
         'intercalar3': '#172554ec',
         'cor-text': '#fff',
-        'portigifolio': 'rgb(225, 217,0)',
+        'portifolio': 'rgb(225, 217,0)',
       }
     },
   },
