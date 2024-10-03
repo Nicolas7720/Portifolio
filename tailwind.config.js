@@ -12,7 +12,12 @@ export default {
         'intercalar2': '#172552',
         'intercalar3': '#172554ec',
         'cor-text': '#fff',
-        'portifolio': 'rgb(225, 217,0)',
+        'portifolio': 'rgb(225, 13, 0)',
+        // rgb(225, 217,0)
+      },
+      fontFamily:{
+        'Sora': ['Sora', 'sans-serif'],
+        'Poppins': ['Poppins', 'sans-serif'],
       }
     },
   },
