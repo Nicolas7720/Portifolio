@@ -1,7 +1,7 @@
 import List from "./ListItens";
 
 const itensNav = [
-    { nomeLink: 'Inicio', href: '#' },
+    { nomeLink: 'Inicio', href: '#sobreMim' },
     { nomeLink: 'Especialidades', href: '#' },
     { nomeLink: 'Sobre', href: '#' },
     { nomeLink: 'Projetos', href: '#' },
